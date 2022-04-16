@@ -1,8 +1,0 @@
-#!/bin/bash
-gcc -E $CFILE .o c
-gcc -E $CFILE .o
-gcc -E $CFILE -0 c
-#!/bin/bash
-gcc $CFILE.c
-gcc $CFILE.0
-gcc file.c
