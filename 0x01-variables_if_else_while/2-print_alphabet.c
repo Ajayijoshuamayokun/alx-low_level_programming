@@ -1,8 +1,4 @@
-2-print_alphabet.c
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
-
 /**
 * main - Entry point
 *
